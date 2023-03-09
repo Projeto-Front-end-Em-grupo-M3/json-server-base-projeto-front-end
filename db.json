@@ -19,31 +19,17 @@
   ],
   "tasks": [
     {
-      "id": 1,
       "name": "Costa",
-      "taskList": [
-        {
-          "task": "Verificar o caminhão",
-          "taskId": 1,
-          "taskCheck": false
-        },
-        {
-          "task": "Fazer as entregas da região sul",
-          "taskId": 2,
-          "taskCheck": false
-        },
-        {
-          "task": "Repassar as encomendas não entregues e a explicação do ocorrido",
-          "taskId": 3,
-          "taskCheck": false
-        }
-      ]
+      "task": "Fazer as entregas da região sul",
+      "status": "Em andamento",
+      "id": 1
     }
   ],
   "points": [
     {
-      "point": "11:35 004/03/2023",
+      "point": "11:35 04/03/2023",
       "name": "Costa",
+      "userId": 2,
       "id": 1
     }
   ]
