@@ -13,7 +13,7 @@
       "name": "Costa",
       "office": "Entregador",
       "shift": "Matutino",
-      "isAdmin": false,
+      "isAdm": false,
       "id": 2
     }
   ],
